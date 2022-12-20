@@ -1,3 +1,3 @@
 # SpamWa
-# suport python v1,v2,v3
+# suport python v1
 #By Mister X
